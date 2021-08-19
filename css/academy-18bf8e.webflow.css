@@ -155,14 +155,14 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #a20071;
+  background-color: #D73C3C;
 }
 
 .heading-2 {
   width: 60%;
   min-width: 60%;
   background-color: transparent;
-  color: #ffcafa;
+  color: whitesmoke;
   font-size: 2rem;
   text-align: center;
 }
@@ -396,7 +396,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #530c55;
+  background-color: #8B0202;
 }
 
 .columns {
@@ -551,7 +551,7 @@
   height: 10vh;
   min-height: 10vh;
   min-width: 10vw;
-  background-color: #ff00d4;
+  background-color: #f55;
 }
 
 .section-4 {
@@ -567,7 +567,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #a20071;
+  background-color: #8B0202;
 }
 
 .heading-9 {
@@ -580,7 +580,7 @@
 
 .text-span {
   font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, sans-serif;
-  color: #ff0070;
+  color: #F55;
   font-weight: 700;
 }
 
@@ -591,13 +591,13 @@
 
 .text-span-3 {
   font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, sans-serif;
-  color: #ff0070;
+  color:#F55;
   font-weight: 700;
 }
 
 .text-span-4 {
   font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, sans-serif;
-  color: #ff00d4;
+  color: #f55;
 }
 
 .heading-10 {
